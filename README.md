@@ -1,2 +1,1 @@
-# Kotlin-Android-Sqlite
-Koltin Android Sqlite
+# Kotlin Android Sqlite
